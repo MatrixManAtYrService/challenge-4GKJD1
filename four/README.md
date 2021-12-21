@@ -1,7 +1,7 @@
 Bug or Feature
 ====================
 
-A user has filed [an issue](). They think it's an Airflow bug.  Take a look at the issue and decide if you agree.
+A user has filed [an issue](https://github.com/MatrixManAtYrService/challenge-4GKJD1/issues/1). They think it's an Airflow bug.  Take a look at the issue and decide if you agree.
 
 ### If It's a Bug
 
